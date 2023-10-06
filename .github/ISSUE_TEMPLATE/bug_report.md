@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[バグ]"
 labels: bug
 assignees: ''
-projects: ["6"]
+projects: ["users/mfham/projects/6", "mfham/projects/6", "mfham/6"]
 
 ---
 
